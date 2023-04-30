@@ -23,7 +23,7 @@ There are 2 ways to participate in the OWASP Chandigarh Chapter Events
 <b>For upcomming events follow us on our social handels.</b> 
 
 ## Become a Speaker<br>
-Would you like to speak on the upcoming OWASP Chandigarh Webinar? [Contact Us](mailto:arjun.chaudhary@owasp.org)
+Would you like to speak on the upcoming OWASP Chandigarh Webinar? [Contact Us](mailto:nishant.khatri@owasp.org)
 
 **Email Format :**
 
