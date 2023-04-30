@@ -43,7 +43,8 @@ Would you like to speak on the upcoming OWASP Chandigarh Webinar? [Contact Us](m
 
 ## Sponsorship for Local Chapter
 For more information on how to support OWASP Chandigarh chapter in helping organize free and open security meets contact the chapter leader.
-[Arjun Chaudhary](mailto:arjun.chaudhary@owasp.org)
+[Nishant Khatri](mailto:nishant.khatri@owasp.org)
+[Yash Mishra](mailto:yash.mishra@owasp.org)
 
 ## Local News
 - Everyone is welcome to join us at our chapter meetings.
